@@ -1,0 +1,2 @@
+utmCTF{4or3n61c6}
+dd if=Hacker-matrix-1.jpeg of=rez2.jpg bs=1 count=413313 skip=356728
